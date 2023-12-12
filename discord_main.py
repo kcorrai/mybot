@@ -82,7 +82,7 @@ async def oneri(ctx):
             await ctx.send("Lütfen geçerli bir tür adı girin")
     
 
-API_KEY = '98aeb406'
+API_KEY = 'api key from OMDb API'
 
 
 def search_movie(movie_name):
