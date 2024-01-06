@@ -1,1 +1,1 @@
-token = "discord tokeni buraya"
+token = "discord token here"
